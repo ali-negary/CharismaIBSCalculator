@@ -18,4 +18,5 @@ First of all, to run the codes, copy all the files in one directory and follow t
 7. There is one more file named "CharismaTkinterUI.py" which is my failed attempt to make a simple User Interface for the code. I made the requested boxes in a frame but I failed to pass the values and call the required functions.
 
 Note 4: The codes contain very few comments. Please contact me for more details.
+
 Note 5: I added a screenshot of what should the result look like. The reason for straight line is that I tested the code on market close time. 

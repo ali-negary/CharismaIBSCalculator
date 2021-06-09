@@ -1,8 +1,11 @@
 # CharismaIBSCalculator
 
 There were certain steps to this code, all expalained below. Please have in mind that the codes are not optimized and I am not sure if they work in long-term run.
+
 Note 1: Name of repository may change or the whole repository may be deleted.
+
 Note 2: This was the test task of Charisma Group Interview. But it may not stay at this stage.
+
 Note 3: I am not good at web developmenment (specially at front-end). So, I am sorry if things are way too ugly. :)
 
 First of all, to run the codes, copy all the files in one directory and follow the instructions.
